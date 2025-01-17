@@ -7,7 +7,8 @@ This repository contains a complete Violence Detection System. It includes a **R
 To include images in the documentation, upload the image files to the repository and reference them using Markdown syntax:
 
 ```markdown
-![Description of the image](path/to/image.png)
+![Web-App Layout](Violence_Detection_system
+/vc-output1.png)
 ```
 
 For example:
