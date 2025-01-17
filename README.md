@@ -2,10 +2,9 @@
 
 This repository contains a complete Violence Detection System. It includes a **React** frontend, a **Flask** backend, and a deep learning model built using **VGG19** and **Bidirectional LSTM**. The system can detect violent activity in videos and provide real-time predictions.
 
-##Images
+## Images
 ### Main Screen
-![Main Screen](Violence_Detection_system
-/vc-output1.png)
+![Main Screen](vc-output1.png)
 
 
 
