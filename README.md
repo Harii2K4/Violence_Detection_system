@@ -2,13 +2,20 @@
 
 This repository contains a complete Violence Detection System. It includes a **React** frontend, a **Flask** backend, and a deep learning model built using **VGG19** and **Bidirectional LSTM**. The system can detect violent activity in videos and provide real-time predictions.
 
+##Dataset Used: 
+[Visit Kaggle](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
+
+##Trained Model And Weights
+[Model](https://drive.google.com/file/d/17zSYYQ6H9NPwlX21V3rrhru6qdtdslNG/view?usp=sharing)
+[Model Weights](https://drive.google.com/file/d/16RF6sBUzcb6QUixY0alrVz0hVPLKav-F/view?usp=sharing)
+
 ## Images
 ### Main Screen
 ![Main Screen](vc-output1.png)
-
-
-
-For example:
+### Violence Detected - with alarm
+![Violence Detected](vc-outputV.png)
+### Non-Violence Detected
+![Non-Violence Detected](vc-outputNV.png)
 
 ```markdown
 
